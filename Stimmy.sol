@@ -1,12 +1,15 @@
-/**
- *Submitted for verification at BscScan.com on 2021-05-14
-*/
 
 
-#STIMMY features:
+$STIMMY features:
    2,5% fee auto add to the liquidity pool to locked forever when selling
    5% fee auto distribute to all holders
-   2,5% fee is burn. 
+   2,5% fee will be burt. 
+   
+   $StimmySwap
+
+/**
+ *Submitted for verification at BscScan.com on 2021-05-23
+*/
 
 pragma solidity ^0.6.12;
 // SPDX-License-Identifier: Unlicensed
